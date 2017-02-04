@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF3E0</color>
+    <color name="colorPrimaryDark">#B2DFDB</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorMeats">#2B87C0</color>
+    <color name="colorDairy">#CE6055</color>
+    <color name="colorVegetables">#1D9753</color>
+    <color name="colorFruits">#F5D03F</color>
+</resources>

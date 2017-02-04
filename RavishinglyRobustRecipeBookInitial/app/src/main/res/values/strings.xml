@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ravishingly Robust Recipe Book</string>
+
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+
+    <item name="new_recipe_text" type="id" />
+    <item name="submit_new_recipe" type="id" />
+
+    <string name="meats">Meat</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="dairy">Dairy</string>
+    <string name="fruits">Fruits</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
